@@ -1,0 +1,14 @@
+*{
+	padding: 0%;
+	margin: 0%;
+	box-sizing: border-box;
+	font-family: 'Merriweather', serif;
+	font-size: 1.3em;
+}
+.container .wm{
+	width: 100%;
+	font-size: 70%;
+} 
+body{
+	background: rgba(0,0,0,0.5);
+}
